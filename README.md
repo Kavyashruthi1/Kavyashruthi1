@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavyashruthi1
 - 👀 I’m interested in Source code creation
 - 🌱 I’m currently learning C programming and Python 
-- 💞️ I’m looking to collaborate on student organizations,internships,LinkedIn and Professional Network.
+- 💞️ I’m looking to collaborate on student organizations,internships,LinkedIn and Professional Networks
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact:The first programmer was a woman
